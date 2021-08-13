@@ -23,6 +23,6 @@
 </p>
 <br></br>
 <p>
-	<img height="150px" width="45%" src="https://github-readme-stats.vercel.app/api?username=SotirisKar&show_icons=true&theme=radical" style="max-width:100%;">
-	<img height="150px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SotirisKar&show_icons=true&langs_count=10&layout=compact&theme=radical" style="max-width:100%;">
+	<img height="150px" src="https://github-readme-stats.vercel.app/api?username=SotirisKar&show_icons=true&theme=radical" style="max-width:100%;">
+	<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SotirisKar&show_icons=true&langs_count=10&layout=compact&theme=radical" style="max-width:100%;">
 </p>
