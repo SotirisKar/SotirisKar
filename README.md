@@ -21,5 +21,7 @@
 	<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
 	<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
 </p>
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=SotirisKar&show_icons=true&theme=radical" style="max-width:100%;">
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SotirisKar&show_icons=true&langs_count=10&theme=radical" style="max-width:100%;">
+<p>
+	<img height="137px" src="https://github-readme-stats.vercel.app/api?username=SotirisKar&show_icons=true&theme=radical" style="max-width:100%;">
+	<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SotirisKar&show_icons=true&langs_count=10&layout=compact&theme=radical" style="max-width:100%;">
+</p>
