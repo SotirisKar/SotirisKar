@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/3knKct3fGqxhK/source.gif" width="970" height="300">
+<img src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/source.gif" width="970" height="300">
 <h3>Languages</h3>
 <p>
 	<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
