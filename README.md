@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/36128807/168691429-69452b8f-c569-4885-9491-dd3889688c32.gif" width="100%" height="370">
+<img src="https://user-images.githubusercontent.com/36128807/168691429-69452b8f-c569-4885-9491-dd3889688c32.gif" width="100%" height="370"/>
 <br></br>
 <h1>Hi 👋 My name is Escape!</h1>
 
