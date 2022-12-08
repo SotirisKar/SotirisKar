@@ -6,7 +6,7 @@ I'm a Machine Learning Engineer.
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sotiris-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sotiris-kar/) [![Mail Badge](https://img.shields.io/badge/-sotiriskar83-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sotiriskar83@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Sotiris-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sotiris-kar/)
 
 ### Stats:
 
